@@ -1,3 +1,13 @@
+# Configuring Printer
+
+TwoTrees Sapphire Pro (core XY)
+BBT SKR 1.4
+TMC2209
+BLtouch
+Ecran BTT TFT35
+Neopixel 12 leds
+
+
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
