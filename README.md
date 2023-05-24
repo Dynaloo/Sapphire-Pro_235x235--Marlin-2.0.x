@@ -1,11 +1,12 @@
-# Configuring Printer
+# Configuring Printer - Sapphire-Pro 235x235 (core XY)
 
-## TwoTrees Sapphire Pro (core XY)
-- BBT SKR 1.4
-- TMC2209
-- BLtouch
-- Ecran BTT TFT35
-- Neopixel 12 leds
+- SKR 1.4 turbo with
+- 4x TMC2209 UART
+- 24v power MEAN WELL — LRS-350
+- BLtouch V3.1 ANTCLABS
+- Neopixel (12 leds)
+- V6 Hotend - plated copper heat block & nozzel - titanium alloy heat break 
+- 2x T8 screew - Pitch 2mm Lead 2mm
 
 
 # Marlin 3D Printer Firmware
